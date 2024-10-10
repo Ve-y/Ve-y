@@ -10,7 +10,7 @@
 - College Student (Game Design)
 
 <b>INTERESTS:</b>
-- LittleBigPlanet
+- <font color="blue">LittleBigPlanet</font>
 - Bloodborne
 - Deepwoken
 - Rhythm Games
