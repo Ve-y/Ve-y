@@ -1,6 +1,6 @@
-<center> <t> <b>H<ul>e<ul>l<ul>l<ul>o<ul>!</b> </t></center> <br><br>
-<center> I am <u><b><t>Ve-y</t></b></u> </center> <br> 
-<center> <st><i> (Vey Was Taken) </i></st> </center> <br><br>
+<div> <t> <b>H<ul>e<ul>l<ul>l<ul>o<ul>!</b> </t></div> <br><br>
+<div> I am <u><b><t>Ve-y</t></b></u> </div> <br> 
+<div> <st><i> (Vey Was Taken) </i></st> </div> <br><br>
 <br>
 
 <b>I AM:</b>
